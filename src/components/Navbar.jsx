@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/logo.png'
+import logo from '../assets/logo.png';
 import SearchBar from "./Searchbar/Searchbar";
 
 function Navbar({setCafes}) {
